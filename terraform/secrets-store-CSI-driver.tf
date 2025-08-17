@@ -1,0 +1,1 @@
+# Secrets Store CSI Driver Configuration
